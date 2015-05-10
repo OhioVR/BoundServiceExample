@@ -40,7 +40,6 @@ public class MyService extends Service {
         }
     }
 
-
     // Methods used by the binding client components
 
     public void methodOne() {
